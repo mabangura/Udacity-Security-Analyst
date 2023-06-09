@@ -8,8 +8,17 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Manu's secure juice shop",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3"
+      }
+    ],
+    "diagramTop": 1,
     "reviewer": "Mohamed Bnagura",
     "threatTop": 0
   }
