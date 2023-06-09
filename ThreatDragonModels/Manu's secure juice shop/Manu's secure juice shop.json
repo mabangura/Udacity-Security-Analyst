@@ -1,0 +1,16 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Manu's secure juice shop",
+    "owner": "Manu",
+    "description": "doing threat modeling on Manu's insecure juice-shop wen application",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Mohamed Bnagura",
+    "threatTop": 0
+  }
+}
